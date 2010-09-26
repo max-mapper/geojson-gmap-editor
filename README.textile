@@ -10,7 +10,7 @@ This will let you throw GeoJSON objects at a Google map instance and give your m
          .-. ,    _/  `   '     |/\
          _> \|\,_'> ______        <__,
         `\      ,`'`      `'.       /__  ,
-         / _   /)`           ',       <_/|
+         / _   /)`           ',       <_/|    FUCK YOU
         `\/ \,; '     ,        \        /_,
           )   | /|     |        |       ` /
               | b/    /    ;    /       .'
