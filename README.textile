@@ -3,6 +3,7 @@ h1. GeoJSON editing for Google Maps!
 This will let you throw GeoJSON objects at a Google map instance and give your map an easy to use interface for editing geometries.
 
 
+<pre><code>
                      ,_
                    _  \`\  )\  ,
                    \`\|  \/ |_/\ 
@@ -18,3 +19,4 @@ This will let you throw GeoJSON objects at a Google map instance and give your m
               |, _ \  |         |     _.'
                \| 7/  / '.. .'   \   /_ ,
                   `  ;            |    /
+</code></pre>
