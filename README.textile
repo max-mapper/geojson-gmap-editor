@@ -2,6 +2,10 @@ h1. GeoJSON editing for Google Maps!
 
 This will let you throw GeoJSON objects at a Google map instance and give your map an easy to use interface for editing geometries.
 
+p. This project is based on Geometry Controls by Chris Marx and Pamela Fox and others at Google. I have ripped out most of the original library, however.
+* "Geometry Controls Example":http://gmaps-utility-library-dev.googlecode.com/svn/trunk/geometrycontrols/examples/test.html
+* "Geometry Controls Info":http://gmaps-utility-library-dev.googlecode.com/svn/trunk/geometrycontrols/docs/reference.html
+* "Geometry Controls Original Code":http://gmaps-utility-library-dev.googlecode.com/svn/trunk/geometrycontrols/
 
 <pre><code>
                      ,_
